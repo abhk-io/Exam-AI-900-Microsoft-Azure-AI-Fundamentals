@@ -14,3 +14,10 @@ Azure AI Fundamentals can be used to prepare for other Azure role-based certific
 - Describe features of computer vision workloads on Azure (15-20%)
 - Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)
 - Describe features of conversational AI workloads on Azure (15-20%)
+
+3. Microsoft Learn Study Paths
+[Get started with artificial intelligence on Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
+[Use visual tools to create machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/)
+[Explore computer vision in Microsoft Azure](https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/)
+[Explore natural language processing](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/)
+[Explore conversational AI](https://docs.microsoft.com/en-us/learn/paths/explore-conversational-ai/)
